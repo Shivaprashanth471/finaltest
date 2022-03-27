@@ -2,7 +2,7 @@ name: Build-test
 on:
   push:
     branches:
-      - "main"
+      - "feat/sonar"
 #  pull_request:
 #    types: [opened, synchronize, reopened]
 jobs:
